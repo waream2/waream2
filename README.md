@@ -6,7 +6,7 @@ I'm a fullstack developer and currently work at Buddy Technology. I spend most o
 Co-created and moderate a Discord community created to give people who are teaching themselves web development a community. If you're looking for a community to learn with or a community to mentor, add me on Discord.
 
 ### Coding Buddies Bot 🤖
-As part of Coding Buddies, we maintain an open-source Discord Bot, whos' job is to help people progress in their journey. The bot provides an opportunity for anyone at any level to learn how to work collaboratively with others and work on a 'produciton' applicaiton. 
+As part of Coding Buddies, we maintain an open-source Discord Bot, thats job is to help people progress in their journey. The bot provides an opportunity for anyone at any level to learn how to work collaboratively with others and work on a 'produciton' applicaiton. 
 
 ## Connect With Me
 
