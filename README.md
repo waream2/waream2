@@ -1,4 +1,4 @@
-# 👋🏾, I'm Aaron (Earn). 
+# 👋🏾, I'm Aaron.
 
 I'm a fullstack developer and currently work at Buddy Technology. I spend most of my professional time writing Node.js and my freetime learning new technologies and helping other's break into tech.
 
