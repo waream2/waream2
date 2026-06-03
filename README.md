@@ -24,4 +24,4 @@ TypeScript, Node.js, React, Next.js, SvelteKit, Express, PostgreSQL, MongoDB, Su
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/aaronware1)
+- [LinkedIn](https://www.linkedin.com/in/aaronware)
