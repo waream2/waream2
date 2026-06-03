@@ -1,4 +1,4 @@
-# Hi, I'm Aaron Ware.
+# Hi, I'm Aaron.
 
 I'm a Senior Applied AI Engineer and backend/platform builder focused on production systems for LLM-guided workflows, dynamic application runtimes, payments, and complex business operations.
 
