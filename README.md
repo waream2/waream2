@@ -1,14 +1,27 @@
-# 👋🏾, I'm Aaron.
+# Hi, I'm Aaron Ware.
 
-I'm a fullstack developer and currently work at Buddy Technology.
+I'm a Senior Applied AI Engineer and backend/platform builder focused on production systems for LLM-guided workflows, dynamic application runtimes, payments, and complex business operations.
 
-I enjoy writing Node JS and exploring software architecture in my tinkertime.
-## Connect With Me
+At Buddy Technology, I work on AI-guided application infrastructure, MCP tooling, TypeScript platform systems, payments, and reusable workflow engines.
 
-<a href="https://www.linkedin.com/in/aaronware/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height="45" width="45"></a> 
+## What I Build
 
+- MCP servers and agentic workflow systems
+- TypeScript/Node.js backend platforms
+- RAG and document Q&A systems
+- Dynamic application runtimes across web, headless, and AI-driven surfaces
+- AI-assisted product and developer tools
 
+## Selected Work
 
+- **[LactSafe](https://app.lactsafe.com)** - AI-assisted LactMed search that helps lactating people retrieve and understand medicine safety information.
+- **[Folio](https://folio.earnwhere.dev)** - Claude Code-powered portfolio and engineering journal generator.
+- **[MyHotelReports](https://www.myhotelreports.com)** - Hospitality reporting platform for owner statements, PDFs, messaging, and operational visibility.
 
+## Core Stack
 
-  
+TypeScript, Node.js, React, Next.js, SvelteKit, Express, PostgreSQL, MongoDB, Supabase, Stripe, AWS, Render, OpenAI API, Anthropic SDK, Voyage embeddings.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/aaronware1)
